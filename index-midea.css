@@ -24,6 +24,9 @@
   .popap{
     width: 60%;
   }
+  .imageLeft .inImageleft p{
+  font-size: 1rem;
+}
 }
 @media screen and (max-width: 570px) {
   .d-none {
